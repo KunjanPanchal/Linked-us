@@ -1,4 +1,10 @@
-![Screenshot_2024-06-18-10-37-04-90_8e7e5c9a3cb7bc1200cf38defa19790d](https://github.com/KunjanPanchal/Linked-us/assets/157042147/ac1eba4b-3d62-4090-9b6a-a171f54a32d8)
+<table>
+  <tr>
+    <td valign="top"><img src="![Screenshot_2024-06-18-10-37-38-61_8e7e5c9a3cb7bc1200cf38defa19790d](https://github.com/KunjanPanchal/Linked-us/assets/157042147/be15becf-b550-44b8-9847-86cdaf3ae2e8)"/></td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/></td>
+  </tr>
+</table>
+
 
 ![Screenshot_2024-06-18-10-37-38-61_8e7e5c9a3cb7bc1200cf38defa19790d](https://github.com/KunjanPanchal/Linked-us/assets/157042147/be15becf-b550-44b8-9847-86cdaf3ae2e8)
 
