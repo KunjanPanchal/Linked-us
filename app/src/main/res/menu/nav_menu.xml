@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/item0"
+        android:title="@string/home"
+        android:icon="@drawable/ic_baseline_home_24"/>
+
+    <item
+        android:id="@+id/item1"
+        android:title="@string/add"
+        android:icon="@drawable/ic_baseline_add_24"/>
+
+    <item
+        android:id="@+id/item2"
+        android:title="@string/status"
+        android:icon="@drawable/ic_baseline_status_24"/>
+
+    <item
+        android:id="@+id/item3"
+        android:title="@string/orders"
+        android:icon="@drawable/ic_baseline_order_24"/>
+
+    <item
+        android:id="@+id/item4"
+        android:title="@string/profile"
+        android:icon="@drawable/ic_baseline_profile_24"/>
+
+</menu>

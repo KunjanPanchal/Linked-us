@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "98316792303",
+    "project_id": "linkedus-cf57b",
+    "storage_bucket": "linkedus-cf57b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98316792303:android:3c4d6c728a1e6cc4d0861a",
+        "android_client_info": {
+          "package_name": "com.example.linkedus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsVGc451jJJfDJQwau-UELwc3O_NATlVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
